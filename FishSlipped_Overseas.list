@@ -1,0 +1,14 @@
+DOMAIN,api.mousegesturesapi.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,investing.com
+DOMAIN,joinsmarty.com
+DOMAIN,cookiepro.com
+DOMAIN,orexpros.com
+DOMAIN,he.net
+DOMAIN-KEYWORD,onetrust
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,namecheap
+DOMAIN-KEYWORD,namesilo
+IP-CIDR,112.106.0.0/16,no-resolve
+IP-CIDR,162.159.0.0/16,no-resolve
+IP-CIDR,140.82.0.0/16,no-resolve
