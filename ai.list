@@ -35,3 +35,5 @@ DOMAIN,featureassets.org
 DOMAIN,prodregistryv2.org
 DOMAIN,api.telegram.org
 DOMAIN-KEYWORD,10jqka.com.cn
+IP-CIDR,148.135.0.0/16,no-resolve
+
